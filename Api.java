@@ -4,6 +4,7 @@ public class Api
     public static void main(String[] args) 
     {
      
+	    //save data
 	Scanner sc =new Scanner(System.in);
 		System.out.println("Enter the Size of Array:");
 		int n1=sc.nextInt();
